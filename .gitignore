@@ -1,0 +1,4 @@
+backend/tmp
+backend/db/development.sqlite3
+backend/db/test.sqlite3
+backend/log
